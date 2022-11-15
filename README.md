@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Johandrelr
-- 👀 I’m interested in data analytics, for now. 
-- 🌱 I’m currently learning data analytics, sql & R, next up python. 
-- 💞️ I’m looking to collaborate on nothing yet, still finding my feet, but something soon.
+- 👀 I’m interested in data analytics.
+- 🌱 I've done some basics in python, sql, Javascript & R. (With university courses and projects in Java & C++) . 
 
 <!---
 Johandrelr/Johandrelr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
